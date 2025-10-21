@@ -1,2 +1,3 @@
 # my-first-repo
-YAY MY FIRST GITHUB REPO!
+Alicia
+This repository is about a special cat.
